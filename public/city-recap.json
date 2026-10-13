@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-12",
+  "updated": "2026-10-13",
   "asset": "SPX",
   "week0": "2023-08-14",
   "n": 166,
@@ -8,19 +8,19 @@
     "fromWeek": 164,
     "toWeek": 165,
     "toDate": "2026-10-12",
-    "residents": 4836,
+    "residents": 4824,
     "residentsThen": 4823,
-    "residentsDelta": 13,
-    "heldNow": 533656501,
+    "residentsDelta": 1,
+    "heldNow": 533673876,
     "heldThen": 533400541,
-    "heldDelta": 255960,
-    "newResidents": 14,
-    "departed": 1,
+    "heldDelta": 273335,
+    "newResidents": 16,
+    "departed": 15,
     "upgraded": 1,
-    "downgraded": 1,
+    "downgraded": 3,
     "familyMix": {
-      "masonry": 3027,
-      "concrete": 1731,
+      "masonry": 3025,
+      "concrete": 1721,
       "glass": 78
     },
     "familyMixThen": {
@@ -33,15 +33,24 @@
       "short": "0xb084…6eaf",
       "bal": 28812,
       "days": 448,
-      "rank": 1503,
+      "rank": 1492,
       "family": "concrete",
       "height": 3.8,
       "fromFamily": "masonry",
       "gained": 11000,
       "agedDays": 7,
-      "climbedRanks": 625
+      "climbedRanks": 636
     },
     "topArrivals": [
+      {
+        "a": "0xbd02c51150a4ab6ce97b9de2025644594f3e75b8",
+        "short": "0xbd02…75b8",
+        "bal": 587451,
+        "days": 364,
+        "rank": 149,
+        "family": "concrete",
+        "height": 8.8
+      },
       {
         "a": "0x66fa5cf06c15898b6dd413d16342746011618174",
         "short": "0x66fa…8174",
@@ -56,7 +65,7 @@
         "short": "0x0e9a…d4c7",
         "bal": 36261,
         "days": 91,
-        "rank": 1573,
+        "rank": 1564,
         "family": "concrete",
         "height": 3.8
       },
@@ -65,7 +74,7 @@
         "short": "0x7147…343b",
         "bal": 30509,
         "days": 91,
-        "rank": 1798,
+        "rank": 1788,
         "family": "concrete",
         "height": 3.5
       },
@@ -74,18 +83,9 @@
         "short": "0x343c…d2d9",
         "bal": 28891,
         "days": 91,
-        "rank": 1862,
+        "rank": 1851,
         "family": "masonry",
         "height": 3.4
-      },
-      {
-        "a": "0x3611d792e7b657ed7b61b2e8da48e7bd419f75dc",
-        "short": "0x3611…75dc",
-        "bal": 20298,
-        "days": 91,
-        "rank": 2397,
-        "family": "masonry",
-        "height": 3
       }
     ],
     "topUpgrades": [
@@ -94,139 +94,139 @@
         "short": "0xb084…6eaf",
         "bal": 28812,
         "days": 448,
-        "rank": 1503,
+        "rank": 1492,
         "family": "concrete",
         "height": 3.8,
         "fromFamily": "masonry",
         "gained": 11000,
         "agedDays": 7,
-        "climbedRanks": 625
+        "climbedRanks": 636
       }
     ],
     "topAccumulators": [
       {
+        "a": "0x2c729d5f33269d64b6e250a036a8fcdad81578de",
+        "short": "0x2c72…78de",
+        "bal": 897022,
+        "days": 119,
+        "rank": 127,
+        "family": "concrete",
+        "height": 9.3,
+        "gained": 143719
+      },
+      {
+        "a": "0xe95b0243a5c5e6fa4b8f34cb525a64e6a1b9aec9",
+        "short": "0xe95b…aec9",
+        "bal": 94126,
+        "days": 497,
+        "rank": 589,
+        "family": "concrete",
+        "height": 5.7,
+        "gained": 59221
+      },
+      {
         "a": "0xb08416d8689392e13f08b9f45319ce38138d6eaf",
         "short": "0xb084…6eaf",
         "bal": 28812,
         "days": 448,
-        "rank": 1503,
+        "rank": 1492,
         "family": "concrete",
         "height": 3.8,
         "gained": 11000
       },
       {
-        "a": "0x2cff890f0378a11913b6129b2e97417a2c302680",
-        "short": "0x2cff…2680",
-        "bal": 492441,
-        "days": 336,
-        "rank": 175,
-        "family": "concrete",
-        "height": 8.4,
-        "gained": 3129
+        "a": "0x62ce32f0e7a58b7abec78ee365a545d5409a290f",
+        "short": "0x62ce…290f",
+        "bal": 20000,
+        "days": 112,
+        "rank": 2377,
+        "family": "masonry",
+        "height": 3,
+        "gained": 10000
       },
       {
-        "a": "0x040df724639cb40bab92105a2646fd7cc70d24d7",
-        "short": "0x040d…24d7",
-        "bal": 27445,
-        "days": 539,
-        "rank": 1482,
+        "a": "0xf440139a62b2b939699c5b3e09f88e40464ab9bc",
+        "short": "0xf440…b9bc",
+        "bal": 112919,
+        "days": 252,
+        "rank": 590,
         "family": "concrete",
-        "height": 3.9,
-        "gained": 1300
-      },
-      {
-        "a": "0x06601870d43a72c709c1c973870396fd00a97455",
-        "short": "0x0660…7455",
-        "bal": 87333,
-        "days": 840,
-        "rank": 528,
-        "family": "concrete",
-        "height": 5.9,
-        "gained": 784
-      },
-      {
-        "a": "0xa1532d04697ccb522e4efc8fba5daa75a412f7b8",
-        "short": "0xa153…f7b8",
-        "bal": 19119,
-        "days": 728,
-        "rank": 1784,
-        "family": "concrete",
-        "height": 3.5,
-        "gained": 321
+        "height": 5.7,
+        "gained": 6526
       }
     ],
     "topClimbers": [
       {
+        "a": "0x62ce32f0e7a58b7abec78ee365a545d5409a290f",
+        "short": "0x62ce…290f",
+        "bal": 20000,
+        "days": 112,
+        "rank": 2377,
+        "family": "masonry",
+        "height": 3,
+        "gained": 10000
+      },
+      {
+        "a": "0xe95b0243a5c5e6fa4b8f34cb525a64e6a1b9aec9",
+        "short": "0xe95b…aec9",
+        "bal": 94126,
+        "days": 497,
+        "rank": 589,
+        "family": "concrete",
+        "height": 5.7,
+        "gained": 59221
+      },
+      {
         "a": "0xb08416d8689392e13f08b9f45319ce38138d6eaf",
         "short": "0xb084…6eaf",
         "bal": 28812,
         "days": 448,
-        "rank": 1503,
+        "rank": 1492,
         "family": "concrete",
         "height": 3.8,
         "gained": 11000
       },
       {
-        "a": "0x040df724639cb40bab92105a2646fd7cc70d24d7",
-        "short": "0x040d…24d7",
-        "bal": 27445,
-        "days": 539,
-        "rank": 1482,
-        "family": "concrete",
-        "height": 3.9,
-        "gained": 1300
+        "a": "0xe312736b59452bef0f16fe7bbb3568c0c1d2302c",
+        "short": "0xe312…302c",
+        "bal": 8498,
+        "days": 420,
+        "rank": 3671,
+        "family": "masonry",
+        "height": 2.2,
+        "gained": 1000
       },
       {
-        "a": "0x776155b04fdb07005e0237312b2d5efa3dae5440",
-        "short": "0x7761…5440",
-        "bal": 5566,
-        "days": 630,
-        "rank": 4347,
+        "a": "0x33d1f59c30c0bfbe5aa768888d2541e7b07820c1",
+        "short": "0x33d1…20c1",
+        "bal": 7220,
+        "days": 308,
+        "rank": 4261,
         "family": "masonry",
         "height": 1.8,
-        "gained": 66
-      },
-      {
-        "a": "0xa1532d04697ccb522e4efc8fba5daa75a412f7b8",
-        "short": "0xa153…f7b8",
-        "bal": 19119,
-        "days": 728,
-        "rank": 1784,
-        "family": "concrete",
-        "height": 3.5,
-        "gained": 321
-      },
-      {
-        "a": "0xac2bb0855ab7963152c8fc4f98a862dcac530a4e",
-        "short": "0xac2b…0a4e",
-        "bal": 9916,
-        "days": 672,
-        "rank": 2918,
-        "family": "masonry",
-        "height": 2.6,
-        "gained": 66
+        "gained": 704
       }
     ],
     "yearHeldMilestones": 65,
-    "tweet": "🏙 This week in SPX City\n\n14 moved in, 1 moved out — 1 building rose a tier as holders grew and aged in.\n\nA rank #1503 holder's tower went from brick low-rise to concrete mid-rise. +256k SPX now stands across 4,836 residents.\n\nEvery building is a real wallet — reproducible on-chain."
+    "tweet": "🏙 This week in SPX City\n\n16 moved in, 15 moved out — 1 building rose a tier as holders grew and aged in.\n\nA rank #1492 holder's tower went from brick low-rise to concrete mid-rise. +273k SPX now stands across 4,824 residents.\n\nEvery building is a real wallet — reproducible on-chain."
   },
   "monthly": {
     "fromWeek": 161,
     "toWeek": 165,
     "toDate": "2026-10-12",
-    "residents": 4836,
+    "residents": 4824,
     "residentsThen": 4859,
-    "residentsDelta": -23,
-    "heldNow": 533656501,
+    "residentsDelta": -35,
+    "heldNow": 533673876,
     "heldThen": 548452633,
-    "heldDelta": -14796132,
-    "newResidents": 129,
-    "departed": 152,
+    "heldDelta": -14778757,
+    "newResidents": 130,
+    "departed": 165,
     "upgraded": 34,
-    "downgraded": 20,
+    "downgraded": 22,
     "familyMix": {
-      "masonry": 3027,
-      "concrete": 1731,
+      "masonry": 3025,
+      "concrete": 1721,
       "glass": 78
     },
     "familyMixThen": {
@@ -267,11 +267,20 @@
         "height": 8.9
       },
       {
+        "a": "0xbd02c51150a4ab6ce97b9de2025644594f3e75b8",
+        "short": "0xbd02…75b8",
+        "bal": 587451,
+        "days": 364,
+        "rank": 149,
+        "family": "concrete",
+        "height": 8.8
+      },
+      {
         "a": "0x59ee04cdd1810af831726e0b137e056af8ef939a",
         "short": "0x59ee…939a",
         "bal": 585000,
         "days": 105,
-        "rank": 183,
+        "rank": 184,
         "family": "concrete",
         "height": 8.3
       },
@@ -280,18 +289,9 @@
         "short": "0xf61c…931f",
         "bal": 440242,
         "days": 112,
-        "rank": 222,
+        "rank": 223,
         "family": "concrete",
         "height": 7.8
-      },
-      {
-        "a": "0xaa10db8804d076601999c7cd769e02e44a99d5b2",
-        "short": "0xaa10…d5b2",
-        "bal": 420000,
-        "days": 112,
-        "rank": 229,
-        "family": "concrete",
-        "height": 7.7
       }
     ],
     "topUpgrades": [
@@ -339,13 +339,13 @@
         "short": "0x651b…426b",
         "bal": 106773,
         "days": 301,
-        "rank": 599,
+        "rank": 600,
         "family": "concrete",
         "height": 5.6,
         "fromFamily": "masonry",
         "gained": 100000,
         "agedDays": 28,
-        "climbedRanks": 3913
+        "climbedRanks": 3912
       },
       {
         "a": "0x700a402dd9f5657ef0bce89e1c1c501b196c38a0",
@@ -405,12 +405,12 @@
       {
         "a": "0x2cff890f0378a11913b6129b2e97417a2c302680",
         "short": "0x2cff…2680",
-        "bal": 492441,
+        "bal": 492884,
         "days": 336,
-        "rank": 175,
+        "rank": 176,
         "family": "concrete",
         "height": 8.4,
-        "gained": 423206
+        "gained": 423649
       }
     ],
     "topClimbers": [
@@ -419,7 +419,7 @@
         "short": "0x651b…426b",
         "bal": 106773,
         "days": 301,
-        "rank": 599,
+        "rank": 600,
         "family": "concrete",
         "height": 5.6,
         "gained": 100000
@@ -429,7 +429,7 @@
         "short": "0xe259…0af5",
         "bal": 70442,
         "days": 329,
-        "rank": 824,
+        "rank": 821,
         "family": "concrete",
         "height": 5,
         "gained": 63062
@@ -439,7 +439,7 @@
         "short": "0xd1af…bd3a",
         "bal": 20214,
         "days": 329,
-        "rank": 2069,
+        "rank": 2058,
         "family": "masonry",
         "height": 3.2,
         "gained": 14770
@@ -447,12 +447,12 @@
       {
         "a": "0xa1532d04697ccb522e4efc8fba5daa75a412f7b8",
         "short": "0xa153…f7b8",
-        "bal": 19119,
+        "bal": 19316,
         "days": 728,
-        "rank": 1784,
+        "rank": 1759,
         "family": "concrete",
         "height": 3.5,
-        "gained": 13492
+        "gained": 13689
       },
       {
         "a": "0x700a402dd9f5657ef0bce89e1c1c501b196c38a0",
@@ -465,7 +465,7 @@
         "gained": 71189
       }
     ],
-    "yearHeldMilestones": 205,
-    "tweet": "🏙 This month in SPX City\n\n129 moved in, 152 moved out — 34 buildings rose a tier as holders grew and aged in.\n\nA rank #57 holder's tower went from concrete mid-rise to glass tower. -14.80M SPX now stands across 4,836 residents.\n\nEvery building is a real wallet — reproducible on-chain."
+    "yearHeldMilestones": 202,
+    "tweet": "🏙 This month in SPX City\n\n130 moved in, 165 moved out — 34 buildings rose a tier as holders grew and aged in.\n\nA rank #57 holder's tower went from concrete mid-rise to glass tower. -14.78M SPX now stands across 4,824 residents.\n\nEvery building is a real wallet — reproducible on-chain."
   }
 }
