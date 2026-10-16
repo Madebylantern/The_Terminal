@@ -1,15 +1,15 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "signals": [
     {
       "type": "underwater-holding",
       "emoji": "💎",
-      "title": "Holders ~30% underwater — and still not selling",
-      "detail": "MVRV 0.7: price is 30% below the crowd's avg on-chain cost basis ($0.502). Yet 56% of supply is in the longest-held tier — the float isn't moving. MVRV has slipped 0.98→0.7 over ~30d.",
+      "title": "Holders ~31% underwater — and still not selling",
+      "detail": "MVRV 0.69: price is 31% below the crowd's avg on-chain cost basis ($0.502). Yet 56% of supply is in the longest-held tier — the float isn't moving. MVRV has slipped 0.94→0.69 over ~30d.",
       "framing": "Maximum financial pain, minimal capitulation — conviction being tested and, so far, holding.",
       "note": "Describe the divergence, NOT a bottom call. \"Not selling\", not \"buy\".",
       "card": "breakeven",
-      "score": 1.7460687779774715
+      "score": 1.7531432614912723
     },
     {
       "type": "drawdown",
@@ -24,12 +24,12 @@
     {
       "type": "nupl",
       "emoji": "🩸",
-      "title": "NUPL -0.43 — capitulation",
-      "detail": "Net unrealised profit/loss is -0.43 (from MVRV 0.7) — the market sits in the capitulation zone.",
+      "title": "NUPL -0.44 — capitulation",
+      "detail": "Net unrealised profit/loss is -0.44 (from MVRV 0.69) — the market sits in the capitulation zone.",
       "framing": "Aggregate holder profitability. Below zero = the crowd is underwater, historically an accumulation zone.",
       "note": "A position read, not a signal.",
       "card": "nupl",
-      "score": 1.4507444238119438
+      "score": 1.4636940376677872
     }
   ]
 }
